@@ -1,6 +1,6 @@
 <img width="2774" height="2080" alt="image" src="https://github.com/user-attachments/assets/3d396a3d-8111-4c1c-8ebe-ca03b9e14f37" />
 
-# Pathfinder
+# Clicky Board
 A custom PCB controller board and fidget!
 
 I made this project because I love fidget toys, and I found it intriguing that I could use it as both a piece of tech AND a fidget toy.
